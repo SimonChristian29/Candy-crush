@@ -14,5 +14,4 @@ Candy Crush is a classic puzzle game where players match candies of the same col
 - Drag-and-drop functionality for swapping candies.
 - Automatic candy sliding and generation for continuous gameplay.
 
-
-
+-Candycrush link https://candeycrush.netlify.app/
